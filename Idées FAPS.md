@@ -8,6 +8,9 @@
 - **Projet**: Analyser les données réelles d'une station d'épuration pour les visualiser, établir des régressions, préparer des "cumulative frequency plots" et analyser des ratios pour valider les données.
 
 
+# Autres besoins (cycle supérieur)
+## Cours eaux urbaines
+dispositif de monitoring d'une installation pilote/conditions environnementales à distance (prendre et envoyer photos de l'installation, lecture/enregistrement des valeurs d'une ou plusieurs sondes: température, pH, etc.) avec raspberry pi
 
 ## CIV6200 
 - **Nom du cours**: Sciences du génie de l'environnement
