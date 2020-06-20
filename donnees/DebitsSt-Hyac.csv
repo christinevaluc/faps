@@ -1,4 +1,4 @@
-date;Jour;Temps;udebmin;udebmoy;udebmax;Qmin-MM14;Qmoy-MM14;Qmax-MM14
+date;Jour;Temps;udebmin;udebmoy;udebmax;Qmin;Qmoy;Qmax
 2001-01-01;lun;1;4131;21253;33524;;;
 2001-01-02;mar;2;13294;24250;36941;;;
 2001-01-03;mer;3;12716;26704;37995;;;
