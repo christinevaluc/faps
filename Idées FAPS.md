@@ -1,6 +1,13 @@
 # Idées pour le Projet FAPS avec langage Python
 
-## CIV3930 Calculs de chemin dans QGIS
+## Documents/Tutoriels de démarrage
+installation conda, utilisation colab
+
+rappels de la base Python
+ressources de base Python
+
+## CIV3930 laboratoires Python et QGIS
+À venir
 
 ## CIV8220, CIV6209A
 - **Noms des cours**: Épuration biologique des eaux usées, Conception de station d'épuration des eaux usées
