@@ -7,7 +7,7 @@ rappels de la base Python
 ressources de base Python
 
 ## CIV3930 laboratoires Python et QGIS
-À venir
+Tutoriel pour faire des polygones d'accessibilité en marchant (exemple à venir avec QGIS), faire plusieurs cartes de façon automatisé, avec différentes distances (temps de marche).
 
 ## CIV8220, CIV6209A
 - **Noms des cours**: Épuration biologique des eaux usées, Conception de station d'épuration des eaux usées
