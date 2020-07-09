@@ -17,7 +17,16 @@ Autres bibliothèques?
 
 Exemples de données ouvertes
 
-## CIV8220, CIV6209A
+Travaux Pratiques:
+* TP1: étude de cas sur les enquêtes déplacement, questions sur le plan d'échantillonnage et de la collecte de données d'observation (comptage, etc)
+* TP2: **X** réalisation et analyse d'une petite enquête déplacement sur Internet
+* TP3: modèles de données et SQL
+* TP4: SIG, construire un projet avec plusieurs couches et agréger des données (possibilité d'utiliser du SQL spatial), analyse/tests statistiques?
+* TP5: **X** analyse et modèle statistiques
+* TP6: **X** fouille de données
+
+
+## CIV8220, CIV6209A (fini)
 - **Noms des cours**: Épuration biologique des eaux usées, Conception de station d'épuration des eaux usées
 - **Prof**: Yves Comeau
 - **Projet**: Analyser les données réelles d'une station d'épuration pour les visualiser, établir des régressions, préparer des "cumulative frequency plots" et analyser des ratios pour valider les données.
