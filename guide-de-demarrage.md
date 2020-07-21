@@ -30,11 +30,4 @@ Colaboratory, souvent raccourci en "Colab", permet d'écrire et d'exécuter du c
 
 Pour y accéder, aller sur https://colab.research.google.com/ à l'aide d'un compte Google. Ensuite, créer un notebook.
 
-![Test](colab.JPG "Colab")
-
 Comme avec Jupyter Notebook, il est possible d'écrire du code Python dans un fichier .pynb sur Colab. 
-
-
-```python
-
-```
