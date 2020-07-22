@@ -34,6 +34,7 @@ L'objectif d'IPython est de créer un environnement complet pour l'informatique 
 * Un shell Python interactif amélioré.
 * Un modèle de communication à deux processus découplé, qui permet à plusieurs utilisateurs de se connecter à un noyau de calcul, notamment le bloc-notes Web fourni avec Jupyter.
 * Une architecture pour le calcul parallèle interactif fait désormais partie du package ipyparallel.
+
 ([IPython](https://ipython.readthedocs.io/en/stable/overview.html), 2020)
 
 ## Jupyter Notebook
