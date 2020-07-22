@@ -37,7 +37,7 @@ Télécharger selon le système d'opération : https://www.anaconda.com/products
 ![Jupyter](https://miro.medium.com/max/4000/1*CrzFvh-ha0mkhUrA3q786A.png)
 
 Pour en savoir plus :
-> [Tutoriel sur Jupyter Notebook](https://www.tutorialspoint.com/jupyter/ipython_introduction.htm)
+> [Tutoriel sur Jupyter Notebook](http://python.lecoinduprogrammeur.org/2017/05/07/jupyter-notebook-ecrivez-executer-documentez-et-publiez-votre-code-python/)
 
 ## Colaboratory
 Colaboratory, souvent raccourci en "Colab", permet d'écrire et d'exécuter du code Python dans votre navigateur, avec 
