@@ -56,7 +56,9 @@ Colaboratory, souvent raccourci en "Colab", permet d'écrire et d'exécuter du c
 - Accès gratuit aux GPU
 - Partage facile
 
-Comme avec Jupyter Notebook, il est possible d'écrire du code Python dans un fichier .pynb sur Colab. 
-![Colab](https://cdn-blog.adafruit.com/uploads/2018/04/Colaboratory_homepage_pic.jpg)
+Comme avec Jupyter Notebook, il est possible d'écrire du code Python dans un fichier .ipynb sur Colab. 
 
+![Colab](https://www.tutorialspoint.com/google_colab/images/new_notebook.jpg)
+
+Pour en savoir plus :
 > [Tutoriel sur Colaboratory](https://github.com/christinevaluc/faps/blob/master/colab-tutoriel.md)
