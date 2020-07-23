@@ -37,6 +37,9 @@ L'objectif d'IPython est de créer un environnement complet pour l'informatique 
 
 ([IPython](https://ipython.readthedocs.io/en/stable/overview.html), 2020)
 
+Pour en savoir plus :
+> [Introduction à IPython (EN)](https://ipython.readthedocs.io/en/stable/interactive/tutorial.html)
+
 ## Jupyter Notebook
 **Jupyter Notebook** est un outil IPython offert sur une application web et qui permet de créer des notebooks. En programmation, un notebook combine des sections en langage naturel et des sections en langage de programmation.
 
